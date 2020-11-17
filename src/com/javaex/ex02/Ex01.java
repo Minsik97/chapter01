@@ -1,4 +1,4 @@
-package com.javaex.exo2;
+package com.javaex.ex02;
 
 public class Ex01 {
 
